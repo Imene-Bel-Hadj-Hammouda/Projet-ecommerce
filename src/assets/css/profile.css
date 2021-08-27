@@ -1,0 +1,11 @@
+.avataricon {
+   
+    font-size: 35px;
+    cursor: pointer;
+    color:rgb(240, 234, 234);
+    margin-top: 10px;
+}
+
+.avataricon:hover {
+    color: #FBB808;
+}
